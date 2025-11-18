@@ -1,6 +1,6 @@
-# HiClass Project – WoAG Implementation
+# HiClass Project
 
-This repository contains the implementation of the **WoAG (Whole Australian Government Coder)** project using **HiClass** — a hierarchical classification framework.  
+This repository contains the implementation of the **Hierarchical Text Classification** project using **HiClass** — a hierarchical classification framework.  
 It integrates **three base classifiers**:
 - **SGD (Stochastic Gradient Descent)**
 - **RG (Random Forest)**
@@ -19,7 +19,7 @@ and combines them with **three hiclass strategies** to evaluate performance unde
 
 - **`helper/`** → Includes all helper functions used across the project (e.g., data processing, evaluation utilities).
 
-    -- **`display_units/`** → Provides the **GUI** components for visual interaction and result presentation.
+- **`display_units/`** → Provides the **GUI** components for visual interaction and result presentation.
 
 ---
 
